@@ -14,3 +14,4 @@ C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-win
 C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\kalkulator figur.pdb
 C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\kalkulator figur.genruntimeconfig.cache
 C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\ref\kalkulator figur.dll
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\kalkulator_figur.Properties.Resources.resources
