@@ -1,0 +1,16 @@
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\bin\Debug\net8.0-windows\kalkulator figur.exe
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\bin\Debug\net8.0-windows\kalkulator figur.deps.json
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\bin\Debug\net8.0-windows\kalkulator figur.runtimeconfig.json
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\bin\Debug\net8.0-windows\kalkulator figur.dll
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\bin\Debug\net8.0-windows\kalkulator figur.pdb
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\kalkulator_figur.Form1.resources
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\kalkulator figur.csproj.GenerateResource.cache
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\kalkulator figur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\kalkulator figur.AssemblyInfoInputs.cache
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\kalkulator figur.AssemblyInfo.cs
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\kalkulator figur.csproj.CoreCompileInputs.cache
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\kalkulator figur.dll
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\refint\kalkulator figur.dll
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\kalkulator figur.pdb
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\kalkulator figur.genruntimeconfig.cache
+C:\Users\1ap\source\repos\kalkulator figur\kalkulator figur\obj\Debug\net8.0-windows\ref\kalkulator figur.dll
